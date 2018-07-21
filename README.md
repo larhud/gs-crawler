@@ -11,3 +11,12 @@ O Google Scholar Crawler tem como objetivo gerar uma planilha com os artigos enc
 * Origem: o índice da consulta que retornou o artigo.
 
 Como o Google Scholar geralmente trava raspagens automatizadas, o script realiza sempre as buscas através de proxies públicos e da rotação de User Agents.
+
+Planejamento do Projeto:
+
+1) Execução via Jupyter para que haja facilidade nos testes (PRONTO)
+
+2) Execução via linha de comando (EM CONSTRUÇÃO)
+
+3) Execuço via interface web para os usuários que no dispõe de conhecimento para trabalhar com Python
+
