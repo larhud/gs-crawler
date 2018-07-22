@@ -24,9 +24,9 @@ Como executar o script:
 
 1) Partindo do pressuposto que você já tem o Python 3 e o git instalados em seu computador, abra o prompt (ou linha de comando no Windows)
 
-    git clone
-    pip install -r req-jupyter.txt
-    jupyter notebook    
+        git clone https://github.com/larhud/gs-crawler.git 
+        pip install -r req-jupyter.txt
+        jupyter notebook    
 
 2) Nesse ponto, o Jupyter irá abrir o navegador. 
 
