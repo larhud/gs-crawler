@@ -20,7 +20,7 @@ Planejamento do Projeto:
 
 3) Execuço via interface web para os usuários que no dispõe de conhecimento para trabalhar com Python
 
-=Como executar a rotina=
+Como executar o script:
 
 1) Partindo do pressuposto que você já tem o Python 3 e o git instalados em seu computador, abra o prompt (ou linha de comando no Windows)
 
